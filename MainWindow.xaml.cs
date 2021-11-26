@@ -24,5 +24,10 @@ namespace Tibulca_Bogdan_Lab2
         {
             InitializeComponent();
         }
+
+        private void MenuItem_Click()
+        {
+
+        }
     }
 }
